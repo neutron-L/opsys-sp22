@@ -15,6 +15,8 @@ Make all of your changes to main.c instead.
 #include <stdlib.h>
 #include <ucontext.h>
 
+#include <signal.h>
+
 #include "page_table.h"
 
 struct page_table {
