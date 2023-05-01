@@ -61,7 +61,7 @@ main()
     echo "Test delta with 10 pages, expect result is 5201920"
     test-program delta 10 5201920
 
-    echo "Pass $pass test case!"
+    echo "Pass $pass test cases!"
 }
 
 main
